@@ -1,0 +1,68 @@
+encoder_arduino_test.o: \
+ D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\encoder_arduino_test.c \
+ D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\encoder_arduino_test.h \
+ D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\rtwtypes.h \
+ D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_extmode.h \
+ D:/S8_COLLECTIVE_PROJECT/SYS/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/simulink/include/sysran_types.h \
+ D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_continuous.h \
+ D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_solver.h \
+ D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_continuous.h \
+ D:/S8_COL~1/src/encoder_arduino.h \
+ D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_AnalogIn.h \
+ D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\encoder_arduino_test_types.h \
+ D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\rt_nonfinite.h \
+ D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/eightanaloginputs/pins_arduino.h \
+ c:\programdata\matlab\supportpackages\r2023b\aide\hardware\arduino\avr\variants\standard\pins_arduino.h \
+ D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\encoder_arduino_test_private.h \
+ D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\multiword_types.h
+
+D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\encoder_arduino_test.h:
+
+D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\rtwtypes.h:
+
+D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_extmode.h:
+
+D:/S8_COLLECTIVE_PROJECT/SYS/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/simulink/include/sysran_types.h:
+
+D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_continuous.h:
+
+D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_solver.h:
+
+D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/simulink/include/rtw_continuous.h:
+
+D:/S8_COL~1/src/encoder_arduino.h:
+
+D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_AnalogIn.h:
+
+D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\encoder_arduino_test_types.h:
+
+D:/INSTAL~1/PROGRA~1/MATLAB/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\rt_nonfinite.h:
+
+D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/eightanaloginputs/pins_arduino.h:
+
+c:\programdata\matlab\supportpackages\r2023b\aide\hardware\arduino\avr\variants\standard\pins_arduino.h:
+
+D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\encoder_arduino_test_private.h:
+
+D:\S8_COLLECTIVE_PROJECT\SYS\encoder_arduino_test_ert_rtw\multiword_types.h:
